@@ -49,6 +49,7 @@ const translations = {
     "pricing.title": "Tarification Simple et Transparente",
     "pricing.subtitle": "Choisissez le plan adapté à la taille de votre cabinet. Options mensuelles ou accès à vie.",
     "pricing.badge": "Meilleur Rapport Qualité-Prix",
+    "pricing.comingsoon": "Bientôt Disponible",
     "pricing.permonth": "Par Mois",
     "pricing.lifetime": "Installation Unique + Accès à Vie",
     "pricing.features": "Fonctionnalités",
@@ -66,8 +67,7 @@ const translations = {
     "pricing.plan2.feature1": "Toutes les fonctionnalités Mensuel",
     "pricing.plan2.feature2": "Schéma Dentaire 3D",
     "pricing.plan2.feature3": "Gestion des Paiements",
-    "pricing.plan2.feature4": "Module Assurance & CNAM",
-    "pricing.plan2.feature5": "Support Prioritaire",
+    "pricing.plan2.feature4": "Support Prioritaire",
     "pricing.plan2.button": "Obtenir l'Accès Pro",
 
     // Testimonials Section
@@ -175,6 +175,7 @@ const translations = {
     "pricing.title": "Simple, Transparent Pricing",
     "pricing.subtitle": "Choose the plan that fits your practice size. Monthly or lifetime access options.",
     "pricing.badge": "Best Value",
+    "pricing.comingsoon": "Coming Soon",
     "pricing.permonth": "Per Month",
     "pricing.lifetime": "One-time Setup + Lifetime Access",
     "pricing.features": "Features",
@@ -192,8 +193,7 @@ const translations = {
     "pricing.plan2.feature1": "All Monthly Features",
     "pricing.plan2.feature2": "3D Dental Chart",
     "pricing.plan2.feature3": "Payment Management",
-    "pricing.plan2.feature4": "Insurance & CNAM Module",
-    "pricing.plan2.feature5": "Priority Support",
+    "pricing.plan2.feature4": "Priority Support",
     "pricing.plan2.button": "Get Pro Access",
 
     // Testimonials Section

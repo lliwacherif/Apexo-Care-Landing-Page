@@ -13,10 +13,10 @@
       ud_header.classList.remove("sticky");
     }
 
-    // Keep logo2.svg always (no logo switching on scroll)
+    // Keep icon-dent.png always (no logo switching on scroll)
     if(logo.length) {
       document.querySelector(".header-logo").src =
-        "assets/images/logo/logo2.svg"
+        "assets/images/hero/icon-dent.png"
     }
 
     // show or hide the back-top-top button

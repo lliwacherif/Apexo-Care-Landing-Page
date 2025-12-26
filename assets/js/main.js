@@ -14,9 +14,9 @@
     }
 
     // Keep icon-dent.png always (no logo switching on scroll)
-    if(logo.length) {
+    if (logo.length) {
       document.querySelector(".header-logo").src =
-        "assets/images/hero/icon-dent.png"
+        "assets/images/hero/icon-dent.png";
     }
 
     // show or hide the back-top-top button

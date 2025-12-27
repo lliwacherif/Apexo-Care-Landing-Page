@@ -62,13 +62,22 @@ const translations = {
     "pricing.plan1.feature4": "Support par Email",
     "pricing.plan1.button": "Commencer Mensuel",
 
-    // Plan 2 - Pro Plan (1200 DT)
-    "pricing.plan2.name": "Plan Pro",
+    // Plan 2 - Avancé (1000 DT)
+    "pricing.plan2.name": "Plan Avancé",
     "pricing.plan2.feature1": "Toutes les fonctionnalités Mensuel",
     "pricing.plan2.feature2": "Schéma Dentaire 3D",
     "pricing.plan2.feature3": "Gestion des Paiements",
     "pricing.plan2.feature4": "Support Prioritaire",
-    "pricing.plan2.button": "Obtenir l'Accès Pro",
+    "pricing.plan2.button": "Obtenir l'Accès Avancé",
+
+    // Plan 3 - Pro+ (1200 DT)
+    "pricing.plan3.name": "Plan Pro+",
+    "pricing.plan3.feature1": "Toutes les fonctionnalités Avancé",
+    "pricing.plan3.feature2": "Schéma Dentaire 3D",
+    "pricing.plan3.feature3": "Gestion des Paiements",
+    "pricing.plan3.feature4": "Support Prioritaire",
+    "pricing.plan3.feature5": "Application Mobile",
+    "pricing.plan3.button": "Obtenir l'Accès Pro+",
 
     // Testimonials Section
     "testimonials.label": "Témoignages",
@@ -188,13 +197,22 @@ const translations = {
     "pricing.plan1.feature4": "Email Support",
     "pricing.plan1.button": "Start Monthly",
 
-    // Plan 2 - Pro Plan (1200 DT)
-    "pricing.plan2.name": "Pro Plan",
+    // Plan 2 - Advanced Plan (1000 DT)
+    "pricing.plan2.name": "Advanced Plan",
     "pricing.plan2.feature1": "All Monthly Features",
     "pricing.plan2.feature2": "3D Dental Chart",
     "pricing.plan2.feature3": "Payment Management",
     "pricing.plan2.feature4": "Priority Support",
-    "pricing.plan2.button": "Get Pro Access",
+    "pricing.plan2.button": "Get Advanced Access",
+
+    // Plan 3 - Pro+ Plan (1200 DT)
+    "pricing.plan3.name": "Pro+ Plan",
+    "pricing.plan3.feature1": "All Advanced Features",
+    "pricing.plan3.feature2": "3D Dental Chart",
+    "pricing.plan3.feature3": "Payment Management",
+    "pricing.plan3.feature4": "Priority Support",
+    "pricing.plan3.feature5": "Mobile App",
+    "pricing.plan3.button": "Get Pro+ Access",
 
     // Testimonials Section
     "testimonials.label": "Testimonials",
